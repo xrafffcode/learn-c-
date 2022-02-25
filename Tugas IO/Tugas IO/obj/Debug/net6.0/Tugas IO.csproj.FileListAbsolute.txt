@@ -1,0 +1,15 @@
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\bin\Debug\net6.0\Tugas IO.exe
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\bin\Debug\net6.0\Tugas IO.deps.json
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\bin\Debug\net6.0\Tugas IO.runtimeconfig.json
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\bin\Debug\net6.0\Tugas IO.dll
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\bin\Debug\net6.0\ref\Tugas IO.dll
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\bin\Debug\net6.0\Tugas IO.pdb
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\obj\Debug\net6.0\Tugas IO.csproj.AssemblyReference.cache
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\obj\Debug\net6.0\Tugas IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\obj\Debug\net6.0\Tugas IO.AssemblyInfoInputs.cache
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\obj\Debug\net6.0\Tugas IO.AssemblyInfo.cs
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\obj\Debug\net6.0\Tugas IO.csproj.CoreCompileInputs.cache
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\obj\Debug\net6.0\Tugas IO.dll
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\obj\Debug\net6.0\ref\Tugas IO.dll
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\obj\Debug\net6.0\Tugas IO.pdb
+D:\Belajar Pemrograman\C#\Tugas IO\Tugas IO\obj\Debug\net6.0\Tugas IO.genruntimeconfig.cache

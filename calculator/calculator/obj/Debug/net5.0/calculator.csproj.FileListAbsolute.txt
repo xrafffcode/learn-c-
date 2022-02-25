@@ -1,0 +1,11 @@
+D:\Belajar Python RafCode\C#\calculator\calculator\bin\Debug\net5.0\calculator.deps.json
+D:\Belajar Python RafCode\C#\calculator\calculator\bin\Debug\net5.0\calculator.dll
+D:\Belajar Python RafCode\C#\calculator\calculator\bin\Debug\net5.0\ref\calculator.dll
+D:\Belajar Python RafCode\C#\calculator\calculator\bin\Debug\net5.0\calculator.pdb
+D:\Belajar Python RafCode\C#\calculator\calculator\obj\Debug\net5.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Python RafCode\C#\calculator\calculator\obj\Debug\net5.0\calculator.AssemblyInfoInputs.cache
+D:\Belajar Python RafCode\C#\calculator\calculator\obj\Debug\net5.0\calculator.AssemblyInfo.cs
+D:\Belajar Python RafCode\C#\calculator\calculator\obj\Debug\net5.0\calculator.csproj.CoreCompileInputs.cache
+D:\Belajar Python RafCode\C#\calculator\calculator\obj\Debug\net5.0\calculator.dll
+D:\Belajar Python RafCode\C#\calculator\calculator\obj\Debug\net5.0\ref\calculator.dll
+D:\Belajar Python RafCode\C#\calculator\calculator\obj\Debug\net5.0\calculator.pdb

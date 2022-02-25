@@ -1,0 +1,16 @@
+D:\Belajar Pemrograman\C#\StringProp\StringProp\bin\Debug\net5.0\StringProp.exe
+D:\Belajar Pemrograman\C#\StringProp\StringProp\bin\Debug\net5.0\StringProp.deps.json
+D:\Belajar Pemrograman\C#\StringProp\StringProp\bin\Debug\net5.0\StringProp.runtimeconfig.json
+D:\Belajar Pemrograman\C#\StringProp\StringProp\bin\Debug\net5.0\StringProp.runtimeconfig.dev.json
+D:\Belajar Pemrograman\C#\StringProp\StringProp\bin\Debug\net5.0\StringProp.dll
+D:\Belajar Pemrograman\C#\StringProp\StringProp\bin\Debug\net5.0\ref\StringProp.dll
+D:\Belajar Pemrograman\C#\StringProp\StringProp\bin\Debug\net5.0\StringProp.pdb
+D:\Belajar Pemrograman\C#\StringProp\StringProp\obj\Debug\net5.0\StringProp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Pemrograman\C#\StringProp\StringProp\obj\Debug\net5.0\StringProp.AssemblyInfoInputs.cache
+D:\Belajar Pemrograman\C#\StringProp\StringProp\obj\Debug\net5.0\StringProp.AssemblyInfo.cs
+D:\Belajar Pemrograman\C#\StringProp\StringProp\obj\Debug\net5.0\StringProp.csproj.CoreCompileInputs.cache
+D:\Belajar Pemrograman\C#\StringProp\StringProp\obj\Debug\net5.0\StringProp.dll
+D:\Belajar Pemrograman\C#\StringProp\StringProp\obj\Debug\net5.0\ref\StringProp.dll
+D:\Belajar Pemrograman\C#\StringProp\StringProp\obj\Debug\net5.0\StringProp.pdb
+D:\Belajar Pemrograman\C#\StringProp\StringProp\obj\Debug\net5.0\StringProp.genruntimeconfig.cache
+D:\Belajar Pemrograman\C#\StringProp\StringProp\obj\Debug\net5.0\StringProp.csproj.AssemblyReference.cache

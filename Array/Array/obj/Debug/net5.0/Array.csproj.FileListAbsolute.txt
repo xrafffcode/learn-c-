@@ -1,0 +1,15 @@
+D:\Belajar Pemrograman\C#\Array\Array\bin\Debug\net5.0\Array.exe
+D:\Belajar Pemrograman\C#\Array\Array\bin\Debug\net5.0\Array.deps.json
+D:\Belajar Pemrograman\C#\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+D:\Belajar Pemrograman\C#\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+D:\Belajar Pemrograman\C#\Array\Array\bin\Debug\net5.0\Array.dll
+D:\Belajar Pemrograman\C#\Array\Array\bin\Debug\net5.0\ref\Array.dll
+D:\Belajar Pemrograman\C#\Array\Array\bin\Debug\net5.0\Array.pdb
+D:\Belajar Pemrograman\C#\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Pemrograman\C#\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+D:\Belajar Pemrograman\C#\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+D:\Belajar Pemrograman\C#\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+D:\Belajar Pemrograman\C#\Array\Array\obj\Debug\net5.0\Array.dll
+D:\Belajar Pemrograman\C#\Array\Array\obj\Debug\net5.0\ref\Array.dll
+D:\Belajar Pemrograman\C#\Array\Array\obj\Debug\net5.0\Array.pdb
+D:\Belajar Pemrograman\C#\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache

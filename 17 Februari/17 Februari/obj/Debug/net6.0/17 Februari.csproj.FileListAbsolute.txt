@@ -1,0 +1,15 @@
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\bin\Debug\net6.0\17 Februari.exe
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\bin\Debug\net6.0\17 Februari.deps.json
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\bin\Debug\net6.0\17 Februari.runtimeconfig.json
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\bin\Debug\net6.0\17 Februari.dll
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\bin\Debug\net6.0\ref\17 Februari.dll
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\bin\Debug\net6.0\17 Februari.pdb
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\obj\Debug\net6.0\17 Februari.csproj.AssemblyReference.cache
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\obj\Debug\net6.0\17 Februari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\obj\Debug\net6.0\17 Februari.AssemblyInfoInputs.cache
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\obj\Debug\net6.0\17 Februari.AssemblyInfo.cs
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\obj\Debug\net6.0\17 Februari.csproj.CoreCompileInputs.cache
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\obj\Debug\net6.0\17 Februari.dll
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\obj\Debug\net6.0\ref\17 Februari.dll
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\obj\Debug\net6.0\17 Februari.pdb
+D:\Belajar Pemrograman\C#\17 Februari\17 Februari\obj\Debug\net6.0\17 Februari.genruntimeconfig.cache

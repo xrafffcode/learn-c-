@@ -1,0 +1,15 @@
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\bin\Debug\net6.0\ArrayList_Rafli.exe
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\bin\Debug\net6.0\ArrayList_Rafli.deps.json
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\bin\Debug\net6.0\ArrayList_Rafli.runtimeconfig.json
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\bin\Debug\net6.0\ArrayList_Rafli.dll
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\bin\Debug\net6.0\ref\ArrayList_Rafli.dll
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\bin\Debug\net6.0\ArrayList_Rafli.pdb
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\obj\Debug\net6.0\ArrayList_Rafli.csproj.AssemblyReference.cache
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\obj\Debug\net6.0\ArrayList_Rafli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\obj\Debug\net6.0\ArrayList_Rafli.AssemblyInfoInputs.cache
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\obj\Debug\net6.0\ArrayList_Rafli.AssemblyInfo.cs
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\obj\Debug\net6.0\ArrayList_Rafli.csproj.CoreCompileInputs.cache
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\obj\Debug\net6.0\ArrayList_Rafli.dll
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\obj\Debug\net6.0\ref\ArrayList_Rafli.dll
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\obj\Debug\net6.0\ArrayList_Rafli.pdb
+D:\Belajar Pemrograman\C#\ArrayList_Rafli\ArrayList_Rafli\obj\Debug\net6.0\ArrayList_Rafli.genruntimeconfig.cache

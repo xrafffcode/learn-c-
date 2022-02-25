@@ -1,0 +1,14 @@
+D:\Belajar Pemrograman\C#\Kuis\Kuis\bin\Debug\net6.0\Kuis.exe
+D:\Belajar Pemrograman\C#\Kuis\Kuis\bin\Debug\net6.0\Kuis.deps.json
+D:\Belajar Pemrograman\C#\Kuis\Kuis\bin\Debug\net6.0\Kuis.runtimeconfig.json
+D:\Belajar Pemrograman\C#\Kuis\Kuis\bin\Debug\net6.0\Kuis.dll
+D:\Belajar Pemrograman\C#\Kuis\Kuis\bin\Debug\net6.0\ref\Kuis.dll
+D:\Belajar Pemrograman\C#\Kuis\Kuis\bin\Debug\net6.0\Kuis.pdb
+D:\Belajar Pemrograman\C#\Kuis\Kuis\obj\Debug\net6.0\Kuis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Pemrograman\C#\Kuis\Kuis\obj\Debug\net6.0\Kuis.AssemblyInfoInputs.cache
+D:\Belajar Pemrograman\C#\Kuis\Kuis\obj\Debug\net6.0\Kuis.AssemblyInfo.cs
+D:\Belajar Pemrograman\C#\Kuis\Kuis\obj\Debug\net6.0\Kuis.csproj.CoreCompileInputs.cache
+D:\Belajar Pemrograman\C#\Kuis\Kuis\obj\Debug\net6.0\Kuis.dll
+D:\Belajar Pemrograman\C#\Kuis\Kuis\obj\Debug\net6.0\ref\Kuis.dll
+D:\Belajar Pemrograman\C#\Kuis\Kuis\obj\Debug\net6.0\Kuis.pdb
+D:\Belajar Pemrograman\C#\Kuis\Kuis\obj\Debug\net6.0\Kuis.genruntimeconfig.cache

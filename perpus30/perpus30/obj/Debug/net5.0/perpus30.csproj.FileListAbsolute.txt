@@ -1,0 +1,15 @@
+D:\Belajar Python RafCode\C#\perpus30\perpus30\bin\Debug\net5.0\perpus30.exe
+D:\Belajar Python RafCode\C#\perpus30\perpus30\bin\Debug\net5.0\perpus30.deps.json
+D:\Belajar Python RafCode\C#\perpus30\perpus30\bin\Debug\net5.0\perpus30.runtimeconfig.json
+D:\Belajar Python RafCode\C#\perpus30\perpus30\bin\Debug\net5.0\perpus30.runtimeconfig.dev.json
+D:\Belajar Python RafCode\C#\perpus30\perpus30\bin\Debug\net5.0\perpus30.dll
+D:\Belajar Python RafCode\C#\perpus30\perpus30\bin\Debug\net5.0\ref\perpus30.dll
+D:\Belajar Python RafCode\C#\perpus30\perpus30\bin\Debug\net5.0\perpus30.pdb
+D:\Belajar Python RafCode\C#\perpus30\perpus30\obj\Debug\net5.0\perpus30.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Python RafCode\C#\perpus30\perpus30\obj\Debug\net5.0\perpus30.AssemblyInfoInputs.cache
+D:\Belajar Python RafCode\C#\perpus30\perpus30\obj\Debug\net5.0\perpus30.AssemblyInfo.cs
+D:\Belajar Python RafCode\C#\perpus30\perpus30\obj\Debug\net5.0\perpus30.csproj.CoreCompileInputs.cache
+D:\Belajar Python RafCode\C#\perpus30\perpus30\obj\Debug\net5.0\perpus30.dll
+D:\Belajar Python RafCode\C#\perpus30\perpus30\obj\Debug\net5.0\ref\perpus30.dll
+D:\Belajar Python RafCode\C#\perpus30\perpus30\obj\Debug\net5.0\perpus30.pdb
+D:\Belajar Python RafCode\C#\perpus30\perpus30\obj\Debug\net5.0\perpus30.genruntimeconfig.cache

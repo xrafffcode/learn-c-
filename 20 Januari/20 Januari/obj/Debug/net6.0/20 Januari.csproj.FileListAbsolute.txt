@@ -1,0 +1,14 @@
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\bin\Debug\net6.0\20 Januari.exe
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\bin\Debug\net6.0\20 Januari.deps.json
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\bin\Debug\net6.0\20 Januari.runtimeconfig.json
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\bin\Debug\net6.0\20 Januari.dll
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\bin\Debug\net6.0\ref\20 Januari.dll
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\bin\Debug\net6.0\20 Januari.pdb
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\obj\Debug\net6.0\20 Januari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\obj\Debug\net6.0\20 Januari.AssemblyInfoInputs.cache
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\obj\Debug\net6.0\20 Januari.AssemblyInfo.cs
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\obj\Debug\net6.0\20 Januari.csproj.CoreCompileInputs.cache
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\obj\Debug\net6.0\20 Januari.dll
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\obj\Debug\net6.0\ref\20 Januari.dll
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\obj\Debug\net6.0\20 Januari.pdb
+D:\Belajar Pemrograman\C#\20 Januari\20 Januari\obj\Debug\net6.0\20 Januari.genruntimeconfig.cache

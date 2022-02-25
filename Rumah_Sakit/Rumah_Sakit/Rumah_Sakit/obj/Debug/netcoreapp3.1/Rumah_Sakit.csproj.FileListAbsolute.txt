@@ -1,0 +1,26 @@
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.exe
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.deps.json
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.runtimeconfig.json
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.runtimeconfig.dev.json
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.dll
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.pdb
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.csproj.AssemblyReference.cache
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.AssemblyInfoInputs.cache
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.AssemblyInfo.cs
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.csproj.CoreCompileInputs.cache
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.dll
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.pdb
+D:\KK3\project\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.genruntimeconfig.cache
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.exe
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.deps.json
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.runtimeconfig.json
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.runtimeconfig.dev.json
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.dll
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\bin\Debug\netcoreapp3.1\Rumah_Sakit.pdb
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.csproj.AssemblyReference.cache
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.AssemblyInfoInputs.cache
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.AssemblyInfo.cs
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.csproj.CoreCompileInputs.cache
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.dll
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.pdb
+D:\Belajar Pemrograman\C#\Rumah_Sakit\Rumah_Sakit\Rumah_Sakit\obj\Debug\netcoreapp3.1\Rumah_Sakit.genruntimeconfig.cache
